@@ -1,6 +1,6 @@
-## Your Name
+## Jack Bittiner
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+The most important thing you need to know about me is that I won the Jackpot on the BBC1 television show Pointless. The second most important thing is that I am a budding, young full-stack developer with an abundance of potential.
 
 ## Skills
 
