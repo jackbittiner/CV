@@ -35,7 +35,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Second-Class Honours
 - Dissertation Title - "What are the criteria and threshold lines in the doctrine of sufficientarianism, and to what extent is it being achieved in India?"
 
-#### Any other qualifications
+#### Queen Elizabeth Grammar School (2004 to 2011)
+- A Levels – Chemistry (A); Biology (B); Politics (B); & General Studies (B)
+- GCSEs - 9 A* to A grades including double English, Maths and Triple Science
 
 ## Experience
 
