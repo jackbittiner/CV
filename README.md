@@ -6,13 +6,9 @@ The most important thing you need to know about me is that I won the Jackpot on 
 
 #### Logic
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+To be a programmer is to be logical. There is no denying that the theoretical foundations of logic are deeply imbedded in computer science. In my three years of University, Logic was my forte. Having taken modules in Modal Logic, Philosophical Logic and Mathematical Logic and gaining a first in all three I know that I have an ability to solve problems by breaking them down and approaching them entirely with the left side of my brain.
 
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
+#### Communication
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
