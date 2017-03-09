@@ -36,10 +36,24 @@ I pride myself on my ability to communicate with ease. Within programming you ha
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Oliver James Associates** (October 2016 – February 2017)    
+*Data Administrator*  
+**Self Employed** (June 2016 – October 2016)   
+*DJ and Club Promoter*  
+**Barnaby Sykes Pie Maker** (June 2016 – August 2016)   
+*Festival Food Vendor*  
+**Computer Futures** (February 2016 – May 2016)   
+*Candidate Acquisition Specialist*  
+**Towergate Insurance** (March 2015 - December 2015)   
+*Data Administrator*  
+**BBC** (January 2015)   
+*Sunday Politics Show - Work Experience*  
+**International Citizen Service** (June 2013 – September 2013)   
+*Volunteer*
+**Yorkshire Wildlife Park** (June 2010 – January 2011)   
+*Barista*
+**Highfield SEN School** (February 2010 – July 2010)   
+*Volunteer*
 
 ## Hobbies and Interests
 
