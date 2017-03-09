@@ -48,10 +48,12 @@ I pride myself on my ability to communicate with ease. Within programming you ha
 *Data Administrator*  
 **BBC** (January 2015)   
 *Sunday Politics Show - Work Experience*  
-**International Citizen Service** (June 2013 – September 2013)   
+**International Citizen Service** (June 2013 – September 2013)
 *Volunteer*
-**Yorkshire Wildlife Park** (June 2010 – January 2011)   
+
+**Yorkshire Wildlife Park** (June 2010 – January 2011)
 *Barista*
+
 **Highfield SEN School** (February 2010 – July 2010)   
 *Volunteer*
 
