@@ -2,7 +2,7 @@
 
 The most important thing you need to know about me is that I won the Jackpot on the BBC1 television show Pointless. The second most important thing is that I am a budding, young full-stack developer with an abundance of potential.
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Makers Blog](https://medium.com/@jackbittiner) | [Geometric Art](https://www.tumblr.com/blog/coloursnshapes)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies-and-interests) | [Makers Blog](https://medium.com/@jackbittiner) | [Geometric Art](https://www.tumblr.com/blog/coloursnshapes)
 
 ## Skills
 
