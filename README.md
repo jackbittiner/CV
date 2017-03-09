@@ -12,12 +12,7 @@ To be a programmer is to be logical. There is no denying that the theoretical fo
 
 #### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I pride myself on my ability to communicate with ease. Within programming you have to be clear in what you want to portray to others. A lot of the information can be dense and thus needs to be handled with guile. This is a talent of mine. I can draw similarities to when I was working on a 3 month project in India. I often had to communicate with people who spoke little to no English. I spent time learning basic Hindi and I also learnt the Devanagari alphabet so I could convey some of my thoughts in written form. This experience broadened my appreciation of cultural differences and enabled me to creatively convey and sensitively adapt my communication skills. I would hope to bring these skills into my future work in the tech industry.
 
 ## Education
 
