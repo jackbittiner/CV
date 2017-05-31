@@ -2,7 +2,17 @@
 
 The most important thing you need to know about me is that I won the Jackpot on the BBC1 television show Pointless. The second most important thing is that I am a budding, young full-stack developer with an abundance of potential.
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Makers Blog](https://medium.com/@jackbittiner) | [Geometric Art](https://coloursnshapes.tumblr.com)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Geometric Art](https://coloursnshapes.tumblr.com)
+
+## Projects
+
+For a complete list, see my [GitHub](https://github.com/jackbittiner?tab=repositories).
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [Loops & Cats](https://github.com/whatsrupp/loops-and-cats) | In two weeks, myself and three others built a live looping application. | Node.js, Web Audio API, WaveSurfer, Jasmine |
+|[Multiplayer-snake](https://github.com/petewilkins/multiplayer-snake)| In one week, myself and three others wanted to make a real-time online game of snake using websockets. | Node.js, socket.io, Express|
+| [MakersBnB](https://github.com/jackbittiner/Makersbnb) | We built an Airbnb clone in Ruby | Ruby, Rspec, Capybara |
 
 ## Skills
 
