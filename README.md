@@ -1,6 +1,6 @@
 ## Jack Bittiner
 
-The most important thing you need to know about me is that I won the Jackpot on the BBC1 television show Pointless. The second most important thing is that I am a budding junior developer with an abundance of potential.
+The most important thing you need to know about me is that I won the Jackpot on the BBC1 television show Pointless. The second most important thing is that I am a budding junior developer who has recently graduated from Makers Academy.
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Geometric Art](https://coloursnshapes.tumblr.com)
 
@@ -20,9 +20,11 @@ For a complete list, see my [GitHub](https://github.com/jackbittiner?tab=reposit
 
 To be a programmer is to be logical. There is no denying that the theoretical foundations of logic are deeply imbedded in computer science. In my three years of University, Logic was my forte. Having taken modules in Modal Logic, Philosophical Logic and Mathematical Logic and gaining a first in all three I know that I have an ability to solve problems by breaking them down and approaching them entirely with the mighty left side of my brain!
 
-#### Communication
+#### Communication / Mentoring
 
-I pride myself on my ability to communicate with ease. Within programming you have to be clear in what you want to portray to others. A lot of the information can be dense and thus needs to be handled with guile. This is a talent of mine. I can draw similarities to when I was working on a 3 month project in India. I often had to communicate with people who spoke little to no English. I spent time learning basic Hindi and I also learnt the Devanagari alphabet so I could convey some of my thoughts in written form. This experience broadened my appreciation of cultural differences and enabled me to creatively convey and sensitively adapt my communication skills. I would hope to bring these skills into my future work in the tech industry.
+I pride myself on my ability to communicate with ease. Within programming you have to be clear in what you want to portray to others. A lot of the information can be dense and thus needs to be handled in a clear and thoughtful way. This is a talent of mine. During my time at Makers Academy I volunteered to be a mentor for other students in the cohort below me. I was there for coding advice, emotional support and general chit-chats. This was a great opportunity to see if I had a good enough understanding of programming to explain it clearly and succinctly. I passed down nuggets of knowledge much like my mentor did for me. I found it very rewarding to help others in this way.
+
+#### Teamwork
 
 ## Education
 
