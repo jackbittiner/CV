@@ -6,8 +6,6 @@ The most important thing you need to know about me is that I won the Jackpot on 
 
 ## Projects
 
-For a complete list, see my [GitHub](https://github.com/jackbittiner?tab=repositories).
-
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [Loops & Cats](https://github.com/whatsrupp/loops-and-cats) | This is a live looping web application that allows musicians to record and loop tracks. Please feel free to have a play at: https://loops-and-cats.herokuapp.com/ | Node.js, Web Audio API, WaveSurfer, Jasmine |
@@ -25,6 +23,8 @@ To be a programmer is to be logical. There is no denying that the theoretical fo
 I pride myself on my ability to communicate with ease. Within programming you have to be clear in what you want to portray to others. A lot of the information can be dense and thus needs to be handled in a clear and thoughtful way. This is a talent of mine. During my time at Makers Academy I volunteered to be a mentor for other students in the cohort below me. I was there for coding advice, emotional support and general chit-chats. This was a great opportunity to see if I had a good enough understanding of programming to explain it clearly and succinctly. I passed down nuggets of knowledge much like my mentor did for me. I found it very rewarding to help others in this way.
 
 #### Teamwork
+
+I personally can't imagine anything worse than working alone at home. I love being part of a team and collaborating on projects. Makers Academy highly values pair programming which I loved as it's great to work through problems together. However I believe I really came into my own when working on larger group projects. My favourite by far was the aforementioned Loops & Cats project. I was in a group with three others and it was by far the most fun I've ever had working. Even when some of the work got technically and conceptually difficult to grasp (such as temporal semantics), we communicated well, knew exactly what had to be done and pulled it out the bag!
 
 ## Education
 
