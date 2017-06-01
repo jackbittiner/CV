@@ -1,6 +1,6 @@
 ## Jack Bittiner
 
-The most important thing you need to know about me is that I won the Jackpot on the BBC1 television show Pointless. The second most important thing is that I am a budding, young full-stack developer with an abundance of potential.
+The most important thing you need to know about me is that I won the Jackpot on the BBC1 television show Pointless. The second most important thing is that I am a budding junior developer with an abundance of potential.
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Geometric Art](https://coloursnshapes.tumblr.com)
 
@@ -10,9 +10,9 @@ For a complete list, see my [GitHub](https://github.com/jackbittiner?tab=reposit
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [Loops & Cats](https://github.com/whatsrupp/loops-and-cats) | In two weeks, myself and three others built a live looping application. | Node.js, Web Audio API, WaveSurfer, Jasmine |
-|[Multiplayer-snake](https://github.com/petewilkins/multiplayer-snake)| In one week, myself and three others wanted to make a real-time online game of snake using websockets. | Node.js, socket.io, Express|
-| [MakersBnB](https://github.com/jackbittiner/Makersbnb) | We built an Airbnb clone in Ruby | Ruby, Rspec, Capybara |
+| [Loops & Cats](https://github.com/whatsrupp/loops-and-cats) | This is a live looping web application that allows musicians to record and loop tracks. Please feel free to have a play at: https://loops-and-cats.herokuapp.com/ | Node.js, Web Audio API, WaveSurfer, Jasmine |
+|[Multiplayer-snake](https://github.com/petewilkins/multiplayer-snake)| This is a real-time multiplayer game of snake. You can play here: https://loops-and-cats.herokuapp.com/ (it's only fun if you get someone else to connect to the server!)| Node.js, socket.io, Express|
+| [MakersBnB](https://github.com/jackbittiner/Makersbnb) | This is a clone of Airbnb. I think it's pretty slick and it would no doubt rival them if we put it to market | Ruby, Rspec, Capybara |
 
 ## Skills
 
@@ -28,11 +28,11 @@ I pride myself on my ability to communicate with ease. Within programming you ha
 
 #### Makers Academy (Feb - June 2017)
 
-- Command Line
-- Version Control
-- Ruby
-- TDD
+- Agile Methodologies
+- Object-Orientated Design
+- Test Driven Development
 - Pair Programming
+- XP Values
 
 #### Universty of Manchester (2011 to 2014)
 
@@ -46,26 +46,12 @@ I pride myself on my ability to communicate with ease. Within programming you ha
 
 ## Experience
 
-**Oliver James Associates** (October 2016 – February 2017)    
-*Data Administrator*  
-**Self Employed** (June 2016 – October 2016)   
-*DJ and Club Promoter*  
-**Barnaby Sykes Pie Maker** (June 2016 – August 2016)   
-*Festival Food Vendor*  
-**Computer Futures** (February 2016 – May 2016)   
-*Candidate Acquisition Specialist*  
-**Towergate Insurance** (March 2015 - December 2015)   
-*Data Administrator*  
-**BBC** (January 2015)   
-*Sunday Politics Show - Work Experience*  
-**International Citizen Service** (June 2013 – September 2013)
-*Volunteer*
+I've had a whole array of jobs.
+From Data Entry to DJ.
+From Pie Seller to Political Researcher.
+From IT Recruitment to Ice Cream Man.
 
-**Yorkshire Wildlife Park** (June 2010 – January 2011)
-*Barista*
-
-**Highfield SEN School** (February 2010 – July 2010)   
-*Volunteer*
+Those days are over. Now I am a developer!
 
 ## Hobbies and Interests
 
