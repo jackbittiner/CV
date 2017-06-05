@@ -9,14 +9,14 @@ The most important thing you need to know about me is that I won the Jackpot on 
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [Loops & Cats](https://github.com/whatsrupp/loops-and-cats) | This is a live looping web application that allows musicians to record and loop tracks. Please feel free to have a play at: https://loops-and-cats.herokuapp.com/ | Node.js, Web Audio API, WaveSurfer, Jasmine |
-|[Multiplayer-snake](https://github.com/petewilkins/multiplayer-snake)| This is a real-time multiplayer game of snake. You can play here: https://loops-and-cats.herokuapp.com/ (it's only fun if you get someone else to connect to the server!)| Node.js, socket.io, Express|
-| [MakersBnB](https://github.com/jackbittiner/Makersbnb) | This is a clone of Airbnb. I think it's pretty slick and it would no doubt rival them if we put it to market | Ruby, Rspec, Capybara |
+|[Multiplayer-snake](https://github.com/petewilkins/multiplayer-snake)| This is a real-time multiplayer game of snake. You can play here: https://github.com/petewilkins/multiplayer-snake (it's only fun if you get someone else to connect to the server!)| Node.js, socket.io, Express|
+| [MakersBnB](https://github.com/jackbittiner/Makersbnb) | This is a clone of Airbnb. I think it's pretty slick and it would no doubt rival them if we put it to market. | Ruby, Rspec, Capybara |
 
 ## Skills
 
 #### Logic
 
-To be a programmer is to be logical. There is no denying that the theoretical foundations of logic are deeply imbedded in computer science. In my three years of University, Logic was my forte. Having taken modules in Modal Logic, Philosophical Logic and Mathematical Logic and gaining a first in all three I know that I have an ability to solve problems by breaking them down and approaching them entirely with the mighty left side of my brain!
+To be a programmer is to be logical. There is no denying that the theoretical foundations of logic are deeply imbedded in computer science. In my three years of University, Logic was my forte. Having taken modules in Modal Logic, Philosophical Logic and Mathematical Logic and gaining a First in all three I know that I have an ability to solve problems by breaking them down and approaching them entirely with the mighty left side of my brain!
 
 #### Communication / Mentoring
 
@@ -24,7 +24,7 @@ I pride myself on my ability to communicate with ease. Within programming you ha
 
 #### Teamwork
 
-I personally can't imagine anything worse than working alone at home. I love being part of a team and collaborating on projects. Makers Academy highly values pair programming which I loved as it's great to work through problems together. However I believe I really came into my own when working on larger group projects. My favourite by far was the aforementioned Loops & Cats project. I was in a group with three others and it was by far the most fun I've ever had working. Even when some of the work got technically and conceptually difficult to grasp (such as temporal semantics), we communicated well, knew exactly what had to be done and pulled it out the bag!
+I personally can't imagine anything worse than working alone at home. I love being part of a team and collaborating on projects. Makers Academy highly values pair programming, which I loved as it's great to work through problems together. However I believe I really came into my own when working on larger group projects. My favourite by far was the aforementioned Loops & Cats project. I was in a group with three others and it was by far the most fun I've ever had working. Even when some of the work got technically and conceptually difficult to grasp (such as temporal semantics), we communicated well, knew exactly what had to be done and pulled it out the bag!
 
 ## Education
 
@@ -36,7 +36,7 @@ I personally can't imagine anything worse than working alone at home. I love bei
 - Pair Programming
 - XP Values
 
-#### Universty of Manchester (2011 to 2014)
+#### University of Manchester (2011 to 2014)
 
 - Politics and Philosophy
 - Second-Class Honours
