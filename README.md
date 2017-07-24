@@ -57,7 +57,7 @@ Those days are over. Now I am a developer!
 
 ## Hobbies and Interests
 
-- I am fascinated by geometric art and have recently taken it up as a hobby.
+- I am fascinated by geometric art and have recently taken it up as a hobby. I also like making visual art using the live coding software Cyril!
 - I have volunteered at both Glastonbury and Bestival with Oxfam in 2014 and 2015. I also regularly volunteer at Chorlton Arts Festival where I spend my time stewarding at performances.
 - I set up and coordinated a monthly club night with two of my friends in Manchester during my time at University. I had a variety of roles including DJ, Promoter and Photographer. A highlight was when I got to DJ at Pangaea, the University of Manchester’s student union night, which is the largest student festival in Europe.
 - I wrote multiple articles for the The Mancunion, the largest student newspaper in the United Kingdom. Most of my articles focused on music. I play the guitar and have a love of Disco and World Music.
