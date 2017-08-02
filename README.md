@@ -11,7 +11,7 @@ The most important thing you need to know about me is that I won the Jackpot on 
 | [Loops & Cats](https://github.com/whatsrupp/loops-and-cats) | This is a live looping web application that allows musicians to record and loop tracks. Please feel free to have a play at: https://loops-and-cats.herokuapp.com/ | Node.js, Web Audio API, WaveSurfer, Jasmine, Heroku |
 |[Multiplayer-snake](https://github.com/petewilkins/multiplayer-snake)| This is a real-time multiplayer game of snake. You can play here: https://github.com/petewilkins/multiplayer-snake (it's only fun if you get someone else to connect to the server!)| Node.js, socket.io, Express|
 | [MakersBnB](https://github.com/jackbittiner/Makersbnb) | This is a clone of Airbnb. I think it's pretty slick and it would no doubt rival them if we put it to market. | Ruby, Rspec, Capybara |
-| [Free for Arts Festival](https://github.com/jackbittiner/Festival-Website) | This is currently a work in progress. It is an informative website for a festival that my friend is organising | HTML, CSS, Bootstrap, Angular.js, Heroku (soon) |
+| [Free for Arts Festival](https://github.com/jackbittiner/Festival-Website) | This is currently a work in progress I'm doing on the side of jobhunting. It is an informative website for a festival that my friend is organising. The backbone is there to make it a SPA, I'm just waiting for the content to put in and style! | HTML, CSS, Bootstrap, Angular.js, Heroku (soon) |
 
 ## Skills
 
