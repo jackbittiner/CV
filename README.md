@@ -2,16 +2,11 @@
 
 The most important thing you need to know about me is that I won the Jackpot on the BBC1 television show Pointless. The second most important thing is that I am a budding software engineer.
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience)
+[Projects](#projects) | [Education](#education) | [Experience](#experience)
 
 ## Experience
 
-I've had a whole array of jobs.
-From Data Entry to DJ.
-From Pie Seller to Political Researcher.
-From IT Recruitment to Ice Cream Man.
-
-Those days are over. Now I am a developer!
+#### FindMyPast
 
 ## Projects
 
