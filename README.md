@@ -8,12 +8,14 @@ The most important thing you need to know about me is that I won the Jackpot on 
 
 ### FindMyPast - Full Stack Software Engineer (October 2017 - Present)
 
+Throughout my time at Findmypast I was on the Money team. The main goal of the team is to drive revenue by optimising the journey from free user to subscriber and retention from there on out. We are a completely autonomous team that have full control of our direction and process. All code was test-driven, paired on, and pushed straight to master. As well as my role as engineer, I also facilitated sprint reviews and retrospectives.
+
 #### Projects
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| Titan Migration | Migrating the subscription, payment and payment confirmation pages from the old stack into the new | React, Elixir, .Net |
-| Try Before You Buy | An experiment to allow users to view x number of transcripts for free on registration to the site | React, Elixir, .Net |
+| Titan Migration | Migration of the subscription, payment and payment confirmation pages from the old stack into the new. This also involved a rearchitecture of the payments system with great simplification of business logic. | React, Elixir, .Net |
+| Try Before You Buy | An experiment to allow users to view x number of transcripts for free on registration to the site. | React, Elixir, .Net |
 | [GitMob](https://github.com/findmypast-oss/git-mob) | An opensource command-line tool for social coding | Node.js |
 
 ## Education
