@@ -2,13 +2,13 @@
 
 The most important thing you need to know about me is that I won the Jackpot on the BBC1 television show Pointless. The second most important thing is that I am a budding software engineer.
 
-[Projects](#projects) | [Education](#education) | [Experience](#experience)
+[Experience](#experience) | [Education](#education)
 
 ## Experience
 
 ### FindMyPast - Full Stack Software Engineer (October 2017 - Present)
 
-Throughout my time at Findmypast I was on the Money team. The main goal of the team is to drive revenue by optimising the journey from free user to subscriber and retention from there on out. We are a completely autonomous team that have full control of our direction and process. All code was test-driven, paired on, and pushed straight to master. As well as my role as engineer, I also facilitated sprint reviews and retrospectives.
+Throughout my time at Findmypast I've been on the Money team. The main goal of the team is to drive revenue by optimising the journey from free user to subscriber and retention from there on out. We are a completely autonomous team that have full control of our direction and process. All code was test-driven, paired on, and pushed straight to master. As well as my role as engineer, I also facilitated sprint reviews and retrospectives.
 
 #### Projects
 
