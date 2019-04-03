@@ -6,16 +6,15 @@ The most important thing you need to know about me is that I won the Jackpot on 
 
 ## Experience
 
-#### FindMyPast
+### FindMyPast - Full Stack Software Engineer (October 2017 - Present)
 
-## Projects
+#### Projects
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [Loops & Cats](https://github.com/whatsrupp/loops-and-cats) | This is a live looping web application that allows musicians to record and loop tracks. Please feel free to have a play at: https://loops-and-cats.herokuapp.com/ | Node.js, Web Audio API, WaveSurfer, Jasmine, Heroku |
-|[Multiplayer-snake](https://github.com/petewilkins/multiplayer-snake)| This is a real-time multiplayer game of snake. You can play here: https://github.com/petewilkins/multiplayer-snake (it's only fun if you get someone else to connect to the server!)| Node.js, socket.io, Express|
-| [MakersBnB](https://github.com/jackbittiner/Makersbnb) | This is a clone of Airbnb. I think it's pretty slick and it would no doubt rival them if we put it to market. | Ruby, Rspec, Capybara |
-| [Free for Arts Festival](https://github.com/jackbittiner/Festival-Website) | This is currently a work in progress I'm doing on the side of jobhunting. It is an informative website for a festival that my friend is organising. The backbone is there to make it a Single Page App, I'm just waiting for the content to put in and style! | HTML, CSS, Bootstrap, Angular.js, JQuery, Heroku (soon) |
+| Titan Migration | Migrating the subscription, payment and payment confirmation pages from the old stack into the new | React, Elixir, .Net |
+| Try Before You Buy | An experiment to allow users to view x number of transcripts for free on registration to the site | React, Elixir, .Net |
+| [GitMob](https://github.com/findmypast-oss/git-mob) | An opensource command-line tool for social coding | Node.js |
 
 ## Education
 
