@@ -8,7 +8,9 @@ The most important thing you need to know about me is that I won the Jackpot on 
 
 ### FindMyPast - Full Stack Software Engineer (October 2017 - Present)
 
-Throughout my time at Findmypast I've been on the Money team. The main goal of the team is to drive revenue by optimising the journey from free user to subscriber and retention from there on out. We are a completely autonomous team that have full control of our direction and process. All code was test-driven, paired on, and pushed straight to master. As well as my role as engineer, I also facilitated sprint reviews and retrospectives.
+Throughout my time at Findmypast I've been on the Money team. The main goal of the team is to drive revenue by optimising the journey from free user to subscriber and retention from there on out. We are a completely autonomous team that have full control of our direction and process. All code was test-driven, paired on, and pushed straight to master. As well as my role as engineer. I took an active role in facilitating sprint reviews and retrospectives.
+
+I was also a member of the Tech Evangelism team. The purpose of this team was to create a good culture in tech at the company. In doing this we organised an external React meet-up in which we wrote our own katas. Now we're currently in the process of organasing an internal company hackathon.
 
 #### Projects
 
@@ -16,7 +18,16 @@ Throughout my time at Findmypast I've been on the Money team. The main goal of t
 |---        |---         |---           |
 | Titan Migration | Migration of the subscription, payment and payment confirmation pages from the old stack into the new. This also involved a rearchitecture of the payments system with great simplification of business logic. | React, Elixir, .Net |
 | Try Before You Buy | An experiment to allow users to view x number of transcripts for free on registration to the site. | React, Elixir, .Net |
-| [GitMob](https://github.com/findmypast-oss/git-mob) | An opensource command-line tool for social coding | Node.js |
+| [GitMob](https://github.com/findmypast-oss/git-mob) | An opensource command-line tool for social coding that I contributed to on the side of my work. | Node.js |
+
+Findmypast gave employees one hour a day as "learning hour". Here are a couple projects I worked on:
+
+#### Personal Projects
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| Go-React | A real-time quiz app where players have to get the answer first | React, Go, WebSockets |
+| Next Choon? | An application for DJs using the spotify web api to decide what song to play next based on tempo, genre and key | React |
 
 ## Education
 
