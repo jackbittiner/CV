@@ -8,26 +8,23 @@ The most important thing you need to know about me is that I won the Jackpot on 
 
 ### FindMyPast - Full Stack Software Engineer (October 2017 - Present)
 
-Throughout my time at Findmypast I've been on the Money team. The main goal of the team is to drive revenue by optimising the journey from free user to subscriber and retention from there on out. We are a completely autonomous team that have full control of our direction and process. All code was test-driven, paired on, and pushed straight to master. As well as my role as engineer. I took an active role in facilitating sprint reviews and retrospectives.
-
-I was also a member of the Tech Evangelism team. The purpose of this team was to create a good culture in tech at the company. In doing this we organised an external React meet-up in which we wrote our own katas. Now we're currently in the process of organasing an internal company hackathon.
+Throughout my time at Findmypast I've been on the Money team. The main goal of the team is to drive revenue by optimising the journey from free user to subscriber and retention from there on out. We are a completely autonomous team that have full control of our direction and process. All code was test-driven, paired on, and pushed straight to master.
 
 #### Projects
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| Titan Migration | Migration of the subscription, payment and payment confirmation pages from the old stack into the new. This also involved a rearchitecture of the payments system with great simplification of business logic. | React, Elixir, .Net |
+| Titan Migration | Migration of the subscription, payment and payment confirmation pages from the old stack into the new. This also involved a rearchitecture of the payments system with great simplification of business logic.  | React, Elixir, .Net |
 | Try Before You Buy | An experiment to allow users to view x number of transcripts for free on registration to the site. | React, Elixir, .Net |
-| [GitMob](https://github.com/findmypast-oss/git-mob) | An opensource command-line tool for social coding that I contributed to on the side of my work. | Node.js |
+| [GitMob](https://github.com/findmypast-oss/git-mob) | An opensource command-line tool for pair programming and social coding. I contributed to this in my spare time | Node.js |
+| Tech Evangelism | I was part of a small team of engineers to create a positive tech culture at the company. This was to keep engineers happy and make us more desirable to outside candidates. We organised our own React Katathon meet up, and are currently in the process of organising an internal hackathon | N/A |
 
-Findmypast gave employees one hour a day as "learning hour". Here are a couple projects I worked on:
-
-#### Personal Projects
+FindMyPast also gave engineers an hour a day dedicated to learning. In these hours I made little pet projects. Here are a couple that I worked on
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| Go-React | A real-time quiz app where players have to get the answer first | React, Go, WebSockets |
-| Next Choon? | An application for DJs using the spotify web api to decide what song to play next based on tempo, genre and key | React |
+| DJ Song Recommender | I consumed the Spotify Web API to create a frontend to recommend the next song a DJ should play based on tempo, key and a variety of other factors.  | React, Spotify API |
+| Go-React | A multiplayer real time quiz app where reaction speeds get you points. | React, Go, Sockets |
 
 ## Education
 
@@ -38,6 +35,7 @@ Findmypast gave employees one hour a day as "learning hour". Here are a couple p
 - Test Driven Development
 - Pair Programming
 - XP Values
+- Ruby, Rails, Javascript
 - Final Project: A Loop Station written in Node.js
 
 #### University of Manchester (2011 to 2014)
@@ -49,3 +47,9 @@ Findmypast gave employees one hour a day as "learning hour". Here are a couple p
 #### Queen Elizabeth Grammar School (2004 to 2011)
 - A Levels – Chemistry (A); Biology (B); Politics (B); & General Studies (B)
 - GCSEs - 9 A* to A grades including double English, Maths and Triple Science
+
+## Hobbies
+
+- DJing (specifically disco / world music)
+- Wild Swimming
+- Trying to learn any musical instrument (the most recent one is the harmonica)
