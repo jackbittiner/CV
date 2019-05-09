@@ -1,6 +1,6 @@
 ## Jack Bittiner
 
-The most important thing you need to know about me is that I won the Jackpot on the BBC1 television show Pointless. The second most important thing is that I am a budding software engineer.
+The most important thing you need to know about me is that I won the Jackpot on the BBC1 television show Pointless. The second most important thing is that I am a Full-Stack software engineer.
 
 [Experience](#experience) | [Education](#education)
 
