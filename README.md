@@ -24,7 +24,7 @@ Throughout my time at Findmypast I've been on the Money team. The main goal of t
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| PlayThru | An app that does song recommendations for DJs [PlayThru](https://github.com/findmypast-oss/git-mob)  | React, GraphQL, Spotify Web API |
+| [PlayThru](https://github.com/jackbittiner/get-next-track) | An app that does song recommendations for DJs | React, GraphQL, Spotify Web API |
 
 ## Education
 
