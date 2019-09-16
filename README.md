@@ -20,6 +20,12 @@ Throughout my time at Findmypast I've been on the Money team. The main goal of t
 | Tech Evangelism | I was part of a small team of engineers to create a positive tech culture at the company. This was to keep engineers happy and make us more desirable to outside candidates. We organised our own React Katathon meet up, and are currently in the process of organising an internal hackathon | N/A |
 | Green Team | I founded a Green Team in the company. The purpose of this team was to lower the company's carbon footprint and generally create a more sustainable culture. | N/A |
 
+## Personal Projects
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| PlayThru | An app that does song recommendations for DJs [PlayThru](https://github.com/findmypast-oss/git-mob)  | React, GraphQL, Spotify Web API |
+
 ## Education
 
 #### Makers Academy (Feb - June 2017)
