@@ -8,23 +8,29 @@ The most important thing you need to know about me is that I won the Jackpot on 
 
 ### FindMyPast - Full Stack Software Engineer (October 2017 - Present)
 
-Throughout my time at Findmypast I've been on the Money team. The main goal of the team is to drive revenue by optimising the journey from free user to subscriber and retention from there on out. We are a completely autonomous team that have full control of our direction and process. All code was test-driven, paired on, and pushed straight to master. Below are a few example projects that I took on during my time here:
-
 #### Projects
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | Titan Migration | Migration of the subscription, payment and payment confirmation pages from the old stack into the new. This also involved a rearchitecture of the payments system and a great simplification of business logic.  | React, Elixir, .Net, GraphQL |
 | Try Before You Buy | An experiment to allow users to view x number of transcripts for free on registration to the site. | React, Elixir, .Net, GraphQL |
-| [GitMob](https://github.com/findmypast-oss/git-mob) | An opensource command-line tool for pair programming and social coding. I contributed to this in my spare time | Node.js |
-| Tech Evangelism | I was part of a small team of engineers to create a positive tech culture at the company. This was to keep engineers happy and make us more desirable to outside candidates. We organised our own React Katathon meet up, and are currently in the process of organising an internal hackathon | N/A |
-| Green Team | I founded a Green Team in the company. The purpose of this team was to lower the company's carbon footprint and generally create a more sustainable culture. | N/A |
+| Intent Scoring | We are currently in the process of  creating an engine to calculate whether a user, based on their interactions on the site, are one of either Claire or Christine (the two personified types of customer who use the site) | Node.js, Postgres |
 
-## Personal Projects
+
+## Personal Projects / Open Source
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [PlayThru](https://github.com/jackbittiner/play-thru) | An app that does song recommendations for DJs | React, GraphQL, Spotify Web API |
+| [Camelot Wheel](https://github.com/jackbittiner/camelot-wheel) | An NPM package to allow for easy use of logic related the Circle of Fifths or 'Camelot Wheel'. | Node.js |
+| [GitMob](https://github.com/findmypast-oss/git-mob) | An opensource command-line tool for pair programming and social coding. | Node.js |
+
+## Non-Techy Work Stuff
+
+| Project   | Description |
+|---        |---         |---           |
+| Tech Evangelism | I was part of a small team of engineers to create a positive tech culture at FindMyPast. This was to keep engineers happy and make us more desirable to outside candidates. We organised our own React Katathon meet up and are in the process of organising an internal hackathon. |
+| Green Team | I founded a Green Team at FindMyPast. The purpose of this team was to create a more sustainable culture at the company. |
 
 ## Education
 
@@ -43,3 +49,4 @@ Throughout my time at Findmypast I've been on the Money team. The main goal of t
 - Politics and Philosophy
 - Second-Class Honours
 - Dissertation Title - "What is it to live sufficiently? Determining the threshold lines in the doctrine of sufficientarianism"
+
