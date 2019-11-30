@@ -28,7 +28,7 @@ The most important thing you need to know about me is that I won the Jackpot on 
 ## Non-Techy Work Stuff
 
 | Project   | Description |
-|---        |---         |---           |
+|---        |---         |
 | Tech Evangelism | I was part of a small team of engineers to create a positive tech culture at FindMyPast. This was to keep engineers happy and make us more desirable to outside candidates. We organised our own React Katathon meet up and are in the process of organising an internal hackathon. |
 | Green Team | I founded a Green Team at FindMyPast. The purpose of this team was to create a more sustainable culture at the company. |
 
@@ -49,4 +49,3 @@ The most important thing you need to know about me is that I won the Jackpot on 
 - Politics and Philosophy
 - Second-Class Honours
 - Dissertation Title - "What is it to live sufficiently? Determining the threshold lines in the doctrine of sufficientarianism"
-
