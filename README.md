@@ -22,8 +22,9 @@ The most important thing you need to know about me is that I won the Jackpot on 
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [PlayThru](https://github.com/jackbittiner/play-thru) | An app that does song recommendations for DJs | React, GraphQL, Spotify Web API |
-| [Camelot Wheel](https://github.com/jackbittiner/camelot-wheel) | An NPM package to allow for easy use of logic related the Circle of Fifths or 'Camelot Wheel'. | Node.js |
+| [Midily](https://github.com/jackbittiner/midily) | An app that converts your voice to MIDI. So you can sing a melody and listen to it back in whatever instrument you like. | React, Node, Web Audio Api, Midi |
 | [GitMob](https://github.com/findmypast-oss/git-mob) | An opensource command-line tool for pair programming and social coding. | Node.js |
+| [Camelot Wheel](https://github.com/jackbittiner/camelot-wheel) | An NPM package to allow for easy use of logic related the Circle of Fifths or 'Camelot Wheel'. | Node.js |
 
 ## Non-Techy Work Stuff
 
