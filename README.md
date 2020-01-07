@@ -14,7 +14,7 @@ The most important thing you need to know about me is that I won the Jackpot on 
 |---        |---         |---           |
 | Titan Migration | Migration of the subscription, payment and payment confirmation pages from the old stack into the new. This also involved a rearchitecture of the payments system and a great simplification of business logic.  | React, Elixir, .Net, GraphQL |
 | Try Before You Buy | An experiment to allow users to view x number of transcripts for free on registration to the site. | React, Elixir, .Net, GraphQL |
-| Intent Scoring | We are currently in the process of  creating an engine to calculate whether a user, based on their interactions on the site, are one of either Claire or Christine (the two personified types of customer who use the site) | Node.js, Postgres |
+| Lead Scoring | We are currently in the process of  creating an engine to calculate whether a user, based on their interactions on the site, are one of either Claire or Christine (the two personified types of customer who use the site) | Node.js, Postgres |
 
 
 ## Personal Projects / Open Source
